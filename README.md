@@ -55,7 +55,7 @@ The repository is organized as follows:
 ## 📄 Deliverables
 
 - 📘 `professional report.pdf`: Full documentation of the analysis
-- 🧾 `one_pager_executive_summary.pdf`: Visual summary for business stakeholders
+- 🧾 `one_pager_executive_summary.pdf`: Summary for business stakeholders
 
 ---
 
